@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home() {
+function AboutMe() {
   return (
     <>
       <div className="card my-4">
@@ -18,7 +18,7 @@ function Home() {
           </div>
 
           <div className="col-md-8">
-            <div className="card-body">
+            <div className="card-body" style={{height: "500px"}}>
               <p className="card-text">
                 <h5>
                   {" "}
@@ -46,16 +46,12 @@ function Home() {
                   </p>
                 </h5>
               </p>
-              <p className="card-text" style={{ marginTop: "100px" }}>
-                <small className="text-muted"></small>
-              </p>
             </div>
           </div>
         </div>
       </div>
-      <div></div>
     </>
   );
 }
 
-export default Home;
+export default AboutMe;

@@ -13,7 +13,7 @@ function Footer() {
             </li>
 
             <li className="list-inline-item">
-              <a href="https://www.linkedin.com/in/nasimi-guliyev-2983b9197/"  target="blank" target="blank" className="btn-floating btn-li mx-1">
+              <a href="https://www.linkedin.com/in/nasimi-guliyev-2983b9197/"  target="blank" className="btn-floating btn-li mx-1">
                 <i className="fab fa-linkedin fa-3x"> </i>
               </a>
             </li>
