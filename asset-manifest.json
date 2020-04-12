@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/NSGuliyev.github.io/React-Portfolio/static/js/main.1d3e11b8.chunk.js",
-    "main.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/main.1d3e11b8.chunk.js.map",
-    "runtime-main.js": "/NSGuliyev.github.io/React-Portfolio/static/js/runtime-main.2e56994c.js",
-    "runtime-main.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/runtime-main.2e56994c.js.map",
-    "static/js/2.488af157.chunk.js": "/NSGuliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js",
-    "static/js/2.488af157.chunk.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js.map",
-    "index.html": "/NSGuliyev.github.io/React-Portfolio/index.html",
-    "precache-manifest.eb85c94d43eb09b01ec9687b57b7f4d1.js": "/NSGuliyev.github.io/React-Portfolio/precache-manifest.eb85c94d43eb09b01ec9687b57b7f4d1.js",
-    "service-worker.js": "/NSGuliyev.github.io/React-Portfolio/service-worker.js",
-    "static/js/2.488af157.chunk.js.LICENSE.txt": "/NSGuliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js.LICENSE.txt"
+    "main.js": "/nsguliyev.github.io/React-Portfolio/static/js/main.1d3e11b8.chunk.js",
+    "main.js.map": "/nsguliyev.github.io/React-Portfolio/static/js/main.1d3e11b8.chunk.js.map",
+    "runtime-main.js": "/nsguliyev.github.io/React-Portfolio/static/js/runtime-main.be3f21cc.js",
+    "runtime-main.js.map": "/nsguliyev.github.io/React-Portfolio/static/js/runtime-main.be3f21cc.js.map",
+    "static/js/2.488af157.chunk.js": "/nsguliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js",
+    "static/js/2.488af157.chunk.js.map": "/nsguliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js.map",
+    "index.html": "/nsguliyev.github.io/React-Portfolio/index.html",
+    "precache-manifest.d03cc7e5ff611f2145e51b36bceb2386.js": "/nsguliyev.github.io/React-Portfolio/precache-manifest.d03cc7e5ff611f2145e51b36bceb2386.js",
+    "service-worker.js": "/nsguliyev.github.io/React-Portfolio/service-worker.js",
+    "static/js/2.488af157.chunk.js.LICENSE.txt": "/nsguliyev.github.io/React-Portfolio/static/js/2.488af157.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e56994c.js",
+    "static/js/runtime-main.be3f21cc.js",
     "static/js/2.488af157.chunk.js",
     "static/js/main.1d3e11b8.chunk.js"
   ]
