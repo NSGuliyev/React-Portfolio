@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/NSGuliyev.github.io/React-Portfolio/static/js/main.2371bbfa.chunk.js",
+    "main.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/main.2371bbfa.chunk.js.map",
+    "runtime-main.js": "/NSGuliyev.github.io/React-Portfolio/static/js/runtime-main.2e56994c.js",
+    "runtime-main.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/runtime-main.2e56994c.js.map",
+    "static/js/2.0a785449.chunk.js": "/NSGuliyev.github.io/React-Portfolio/static/js/2.0a785449.chunk.js",
+    "static/js/2.0a785449.chunk.js.map": "/NSGuliyev.github.io/React-Portfolio/static/js/2.0a785449.chunk.js.map",
+    "index.html": "/NSGuliyev.github.io/React-Portfolio/index.html",
+    "precache-manifest.2caee2fef52e5291c0408fb77e6ac6ea.js": "/NSGuliyev.github.io/React-Portfolio/precache-manifest.2caee2fef52e5291c0408fb77e6ac6ea.js",
+    "service-worker.js": "/NSGuliyev.github.io/React-Portfolio/service-worker.js",
+    "static/js/2.0a785449.chunk.js.LICENSE.txt": "/NSGuliyev.github.io/React-Portfolio/static/js/2.0a785449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e56994c.js",
+    "static/js/2.0a785449.chunk.js",
+    "static/js/main.2371bbfa.chunk.js"
+  ]
+}
