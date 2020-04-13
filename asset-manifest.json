@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.01c8c0f5.chunk.js",
-    "main.js.map": "/static/js/main.01c8c0f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.549be430.js",
-    "runtime-main.js.map": "/static/js/runtime-main.549be430.js.map",
-    "static/js/2.ee7fcf1d.chunk.js": "/static/js/2.ee7fcf1d.chunk.js",
-    "static/js/2.ee7fcf1d.chunk.js.map": "/static/js/2.ee7fcf1d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7efc9b98d3b48b0cb35eb025f460b35c.js": "/precache-manifest.7efc9b98d3b48b0cb35eb025f460b35c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.ee7fcf1d.chunk.js.LICENSE.txt": "/static/js/2.ee7fcf1d.chunk.js.LICENSE.txt",
-    "static/media/nasimi-guliyev.jpg": "/static/media/nasimi-guliyev.7981bd2e.jpg"
+    "main.js": "/React-Portfolio/static/js/main.01c8c0f5.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.01c8c0f5.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.11a50c0c.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.11a50c0c.js.map",
+    "static/js/2.ee7fcf1d.chunk.js": "/React-Portfolio/static/js/2.ee7fcf1d.chunk.js",
+    "static/js/2.ee7fcf1d.chunk.js.map": "/React-Portfolio/static/js/2.ee7fcf1d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.0edd45f7cb9178d1686631f8e240db5d.js": "/React-Portfolio/precache-manifest.0edd45f7cb9178d1686631f8e240db5d.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/js/2.ee7fcf1d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.ee7fcf1d.chunk.js.LICENSE.txt",
+    "static/media/nasimi-guliyev.jpg": "/React-Portfolio/static/media/nasimi-guliyev.7981bd2e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.549be430.js",
+    "static/js/runtime-main.11a50c0c.js",
     "static/js/2.ee7fcf1d.chunk.js",
     "static/js/main.01c8c0f5.chunk.js"
   ]
